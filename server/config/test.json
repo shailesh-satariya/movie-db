@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "1234",
+  "db": "mongodb://localhost/movie-db-tests",
+  "port": "3900"
+}
